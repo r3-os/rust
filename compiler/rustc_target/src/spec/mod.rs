@@ -898,6 +898,7 @@ supported_targets! {
     ("thumbv8m.base-none-eabi", thumbv8m_base_none_eabi),
     ("thumbv8m.main-none-eabi", thumbv8m_main_none_eabi),
     ("thumbv8m.main-none-eabihf", thumbv8m_main_none_eabihf),
+    ("thumbv7em-esp-espidf-eabihf", thumbv7em_esp_espidf_eabihf),
 
     ("armv7a-none-eabi", armv7a_none_eabi),
     ("armv7a-none-eabihf", armv7a_none_eabihf),
